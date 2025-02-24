@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox/issues"
   },
-  "homepage": "https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox#readme"
+  "homepage": "https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
