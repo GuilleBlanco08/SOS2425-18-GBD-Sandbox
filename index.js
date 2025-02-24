@@ -1,1 +1,1 @@
-afhdiashfiadshfuuiasuhfi
+console.log("Init script")
