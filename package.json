@@ -1,0 +1,21 @@
+{
+  "name": "sos2425-18-gbd-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox/issues"
+  },
+  "homepage": "https://github.com/GuilleBlanco08/SOS2425-18-GBD-Sandbox#readme"
+}
