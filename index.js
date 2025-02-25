@@ -1,7 +1,12 @@
-let express = require("express");
+const express = require("express");
+const app = express();
+const PORT = 16078;
 
-let app = express();
+app.get("/",(request, response)=>{
+    response.send("Hello from the server!");
+});
 
-app.listen(16078);
+app.listen(PORT,()=>{
+    console.log(`Server running on port ${PORT}!`);
+});
 
-console.log("Server running");
